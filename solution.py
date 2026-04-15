@@ -2,7 +2,7 @@
 ==============================================================
 Day 10 Lab: Build Your First Automated ETL Pipeline
 ==============================================================
-Student ID: AI20K-0275
+Student ID: 2A202600275
 Name: Pham Xuan Khang
 
 Nhiem vu:

@@ -1,6 +1,6 @@
 # Experiment Report: Data Quality Impact on AI Agent
 
-**Student ID:** AI20K-0275
+**Student ID:** 2A202600275
 **Name:** Pham Xuan Khang
 **Date:** 2026-04-15
 
